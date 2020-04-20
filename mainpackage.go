@@ -7,7 +7,12 @@ func CallMe() {
 	log.Println("Call me")
 }
 
-// CallMe run here
+// CallMe2 run here
 func CallMe2() {
+	log.Println("Call me2")
+}
+
+// CallMe3 run here
+func CallMe3() {
 	log.Println("Call me2")
 }
