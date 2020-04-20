@@ -6,3 +6,8 @@ import "log"
 func CallMe() {
 	log.Println("Call me")
 }
+
+// CallMe run here
+func CallMe2() {
+	log.Println("Call me2")
+}
